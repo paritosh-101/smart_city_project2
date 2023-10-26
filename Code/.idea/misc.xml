@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="sdkUUID" value="37a28524-c741-4564-9404-91af7dc0fa4a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="SBP_detection" project-jdk-type="Python SDK" />
+</project>
