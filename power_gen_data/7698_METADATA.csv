@@ -1,0 +1,22 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,"",0,,"","",Country
+Type of power generation,D7698_5,Key Identifier,"",0,,"","","Type of power generation : Thermal Coal, Thermal Diesel, Thermal Gas Liquid, Nuclear, Hydro etc"
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+MonthCode,MonthCode,Key Identifier,"",0,,"","",MonthCode
+Month,Month,Key Identifier,"",0,,"","",Month
+CalendarDayCode,DayCode,Key Identifier,"",0,,"","",CalendarDayCode
+Calendar Day,CalendarDay,Key Identifier,"",0,,"","",Calendar Day
+Monitored capacity,I7698_6,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Monitored Capacity in Mega Watt Monitored Capacity is the capacity of a power station that is actively monitored
+Capacity under long outage,I7698_7,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Capacity under long outage in Mega Watt
+New capacity under stabilization or completion of balance works,I7698_8,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,New capacity under stabilization or completion of balance works in Mega Watt
+Capacity of power generation from prime movers (pm),I7698_9,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,"Capacity of power generation from Prime Movers (PM) in Mega Watt (MW) Prime movers typically refer to the main engines or turbines used in power plants, such as steam turbines, gas turbines, or diesel generators"
+Capacity of power generation from fuel oil (fo),I7698_10,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,"Capacity of power generation from Fuel Oil (FO) in Mega Watt (MW) Fuel oil is a type of liquid fuel derived from petroleum, and it is commonly used in power plants as a source of energy"
+Capacity of power generation from other sources,I7698_11,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,"Capacity of power generation from other sources in Mega Watt (MW) The Other sources may include alternative or renewable energy sources like solar, wind, hydroelectric, or biomass, depending on the specific power generation system"
+Total capacity of power generation from all sources,I7698_12,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Total capacity of power generation from all sources combined in Mega Watt (MW) Prime Movers (PM) + Fuel Oil (FO) + Other sources
+Capacity outage as percent of monitered,I7698_13,Numeric Variable,% ( Percentage ),1,avg,Not Applicable,Not Applicable,Capacity outage as percent of monitered (%)
+Operational capacity of power generation,I7698_14,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Operational capacity of power generation in Mega Watt (MW) Power generation capacity that is currently in operation and actively producing electricity
+Gross sum of maximum power generated,I7698_15,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Gross sum of maximum power generated in Mega Watt
+Net sum of maximum power generated,I7698_16,Numeric Variable,MW ( Megawatt ),1,sum,Not Applicable,Not Applicable,Net sum of maximum power generated in Mega Watt
+Maximum power output as percentage of capacity on line,I7698_17,Numeric Variable,% ( Percentage ),1,avg,Not Applicable,Not Applicable,Maximum power output as percentage of capacity on line (%)
+Percentage of monitered maximum power output,I7698_18,Numeric Variable,% ( Percentage ),1,avg,Not Applicable,Not Applicable,Percentage of monitered maximum power output (%)
